@@ -175,7 +175,7 @@
 かめた！消える。
 ```
 
-- [木・家・車 ver2](https://jsdolittle.eplang.jp/djs/)
+- [木・家・車 ver2](https://jsdolittle.eplang.jp/djs/?src=0d0a)
 
 ```
 かめた＝タートル！作る。
