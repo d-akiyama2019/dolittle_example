@@ -1,4 +1,4 @@
-# dolittle_exsample
+# dolittle_example
 
 ## 参考資料 
 - [オンライン版ドリトル](https://jsdolittle.eplang.jp/djs)
